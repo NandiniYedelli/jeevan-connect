@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jeevan Connect
 
 Jeevan Connect is a real-time emergency response platform that connects citizens, ambulance drivers, hospitals, and dispatch/admin operations.
@@ -401,3 +402,6 @@ From backend folder:
 
 - This repository now excludes one-off debug scripts and generated log artifacts used during local troubleshooting.
 - Hospital login IDs are maintained in hosp0001 format and exposed as Hospital No in credentials responses.
+=======
+# jeevan-connect
+>>>>>>> 6f4bd7792dfee9dd8cf7e6d71e68c1566d49ac2a
