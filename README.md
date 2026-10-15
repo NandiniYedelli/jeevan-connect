@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jeevan Connect
 
 Jeevan Connect is a real-time emergency response platform that connects citizens, ambulance drivers, hospitals, and dispatch/admin operations.
